@@ -1,5 +1,5 @@
-#Basic git commands
- 
+##Basic git commands
+0. these are basic commands
 1. git init -> initialises a new git repo
 2. git clone -> makes a copy of remote repo to local
 3. git commit -> commits all changes
