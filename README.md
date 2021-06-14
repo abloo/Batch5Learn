@@ -12,3 +12,4 @@
 10. git merge branchname -> merges the branch soecified to current branch
 11. git tag -> to specify a release 
 12. git fetch -> Bring all changes to local from remote.
+## My new learning from git
